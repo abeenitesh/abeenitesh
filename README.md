@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
 <h3 align="center">AI/ML Engineer | React Native Full-Stack Developer | Python Developer</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kumarbaberwal&label=Profile%20views&color=0e75b6&style=flat" alt="kumarbaberwal" />
+  <img src="https://komarev.com/ghpvc/?username=abeenitesh&label=Profile%20views&color=0e75b6&style=flat" alt="abeenitesh" />
 </p>
 
 ---
@@ -11,14 +10,6 @@
 
 Results-oriented **Software Developer** with hands-on experience in **AI/ML**, **React Native**, **Expo**, **Python**, **Express.js**, **Node.js**, and **cloud-based authentication** systems like **Clerk** and **Firebase Auth**.  
 I enjoy building scalable apps, designing backend APIs, and collaborating with teams to ship real-world solutions.
-
----
-
-### 🎓 Education
-
-- **B.Tech in Computer Science & Engineering**  
-  Panipat Institute of Engineering and Technology (2022–Present)  
-  **CGPA: 7.6/10**
 
 ---
 
@@ -84,7 +75,7 @@ I enjoy building scalable apps, designing backend APIs, and collaborating with t
 
 ### 👨‍💼 Leadership
 
-**Class Representative – PIET (2022–Present)**
+**Class Representative**
 
 - Led CR team across sections
 - Facilitated communication between students and faculty
@@ -100,17 +91,3 @@ I enjoy building scalable apps, designing backend APIs, and collaborating with t
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarbaberwal&show_icons=true&layout=compact" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarbaberwal&show_icons=true" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarbaberwal" />
-</p>
